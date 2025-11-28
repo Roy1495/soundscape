@@ -12,3 +12,6 @@ High-quality audio: Enjoy music with excellent sound quality.
 Curated playlists: Explore music based on mood, genre, or theme.
 Responsive design: Works seamlessly across all devices.
 No subscriptions required: Access music freely (subject to licensing).
+
+📄 License
+This project is open source and available under the MIT License.
