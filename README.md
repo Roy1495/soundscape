@@ -13,5 +13,11 @@ Curated playlists: Explore music based on mood, genre, or theme.
 Responsive design: Works seamlessly across all devices.
 No subscriptions required: Access music freely (subject to licensing).
 
+🛠️ Technologies Used
+HTML5 – For structuring the web page.
+CSS3 – For styling and layout.
+JavaScript – For dynamic features like play/pause, playlist controls, and more.
+Audio API – For handling music playback.
+
 📄 License
 This project is open source and available under the MIT License.
