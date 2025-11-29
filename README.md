@@ -1,4 +1,4 @@
-#Soundscape
+# Soundscape
 🎵 A web-based music streaming platform that brings the rich and immersive experience of sound to your fingertips.
 
 ##🎯 Description
