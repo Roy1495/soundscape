@@ -1,5 +1,5 @@
 # Soundscape
-🎵 A web-based music streaming platform that brings the rich and immersive experience of sound to your fingertips.
+A web-based music streaming platform that brings the rich and immersive experience of sound to your fingertips.
 
 ## 🎯 Description
 Soundscape is a music streaming service designed to offer users a curated and immersive auditory experience. The name evokes a world of sound, where every note, beat, and melody is carefully selected to create a unique listening journey.
